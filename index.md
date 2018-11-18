@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Dr. Natalie Ricthon PhD
 
-You can use the [editor on GitHub](https://github.com/elirosen/natalie/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a licensed clinical psychologist providing therapy to children, adolescents, and adults coping with a variety of challenges. I am committed to helping individuals solve numerous problems, promote personal growth, and make desired changes to enhance life experiences. I establish a foundation built on trust, empathy, and productivity, through which I collaborate with my clients to tailor treatment to their specific needs. I build a strong therapeutic relationship where my clients feel comfortable working towards achieving their goals, incorporating CBT, DBT, ACT and family systems theory. I use my extensive background in evidence-based treatment to provide each individual with optimal care.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Services
+I specialize in treatment for mood and anxiety difficulties. My clinical expertise focuses on a wide range of problems, including anxiety, panic, worry, depression, eating disorders, behavioral problems, emotion regulation, test anxiety, sports-performance anxiety, parenting techniques and relationship problems. I also have consistent success helping the individuals I work with increase their use of effective coping strategies and minimize painful, problematic symptoms and behaviors.
 
-### Markdown
+In addition to my private practice, I serve as Program Director and supervisor at Backcountry Wellness. In my role there, I supervise other clinicians and treat those struggling with eating disorders and disordered eating.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Get in Touch
+Our office is located at:
 
-```markdown
-Syntax highlighted code block
+7 Lincoln Avenue, 2nd Floor
+Greenwich, CT 06830
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+To schedule a consultation:
+Call: 914-260-2439
+or 
+Email: DrNatalieRichton@gmail.com 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/elirosen/natalie/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Licensure: 
+Licensed in both CT and NY
