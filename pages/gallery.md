@@ -1,14 +1,11 @@
 ---
 layout: page
-title: Gallery
-subtitle: From the pexels folder
-permalink: /gallery/
-gallery_path: "assets/img/pexels"
-tags: [Gallery, Photo]
+title: Services
+subtitle: Counseling Services
+permalink: /services/
+tags: [Services, Treatments]
 ---
 
-This is a photo gallery made from the static files in the `assets/img/pexels` folder. 
-I wanted to create automatically a simple gallery from a folder without having to create a markdown page as you would for the portfolio.
+I specialize in treatment for mood and anxiety difficulties. My clinical expertise focuses on a wide range of problems, including anxiety, panic, worry, depression, eating disorders, behavioral problems, emotion regulation, test anxiety, sports-performance anxiety, parenting techniques and relationship problems. I also have consistent success helping the individuals I work with increase their use of effective coping strategies and minimize painful, problematic symptoms and behaviors.
 
 
-{% include gallery.html gallery_path=page.gallery_path %}
