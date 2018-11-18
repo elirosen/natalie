@@ -1,4 +1,4 @@
-## Dr. Natalie Ricthon PhD
+## Dr. Natalie Ricthon, PhD
 
 I am a licensed clinical psychologist providing therapy to children, adolescents, and adults coping with a variety of challenges. I am committed to helping individuals solve numerous problems, promote personal growth, and make desired changes to enhance life experiences. I establish a foundation built on trust, empathy, and productivity, through which I collaborate with my clients to tailor treatment to their specific needs. I build a strong therapeutic relationship where my clients feel comfortable working towards achieving their goals, incorporating CBT, DBT, ACT and family systems theory. I use my extensive background in evidence-based treatment to provide each individual with optimal care.
 
@@ -9,12 +9,11 @@ In addition to my private practice, I serve as Program Director and supervisor a
 
 ### Get in Touch
 Our office is located at:
-
 7 Lincoln Avenue, 2nd Floor
 Greenwich, CT 06830
 
 
-To schedule a consultation:
+To schedule a consultation 
 Call: 914-260-2439
 or 
 Email: DrNatalieRichton@gmail.com 
