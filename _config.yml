@@ -1,21 +1,21 @@
 # SITE CONFIGURATION
 baseurl: ""
 url: "https://elirosen.github.io"
-title: Type on Strap # site's title
-description: "A website with blog posts and pages" # used by search engines
+title: Dr. Natalie Richton, Phd # site's title
+description: "Dr Natalie Richton Phd provides counseling services for adults and teens in New York and Connecticut. She specializes in anxiety treatment, food disorders and marital counseling" # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type on Strap # blog's title
+  title: Dr. Natalie Richton Phd # blog's title
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>Change header text in <code>_config.yml</code> <br> to update this feature.</p>
+     <p>Dr. Natalie Richton, Phd</p>
   header_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
@@ -29,7 +29,7 @@ theme_settings:
   facebook:
   flickr:
   gitlab:
-  github: "sylhare"
+  github:
   google_plus:
   instagram:
   keybase:
