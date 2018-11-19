@@ -36,16 +36,16 @@ paginate: 2 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
-  username: DavidDarnes # jekyll-seo-tag > Owners twitter username
-author: DavidDarnes # jekyll-seo-tag > default author
+  username: erosen # jekyll-seo-tag > Owners twitter username
+author: elirosen # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
-  name: David Darnes # jekyll-seo-tag > real name
+  name: elirosen # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://twitter.com/DavidDarnes
-    - https://www.facebook.com/daviddarnes
-    - https://www.linkedin.com/in/daviddarnes
-    - https://plus.google.com/+DavidDarnes
-    - https://github.com/daviddarnes
+    #- https://twitter.com/DavidDarnes
+    #- https://www.facebook.com/daviddarnes
+    #- https://www.linkedin.com/in/daviddarnes
+    #- https://plus.google.com/+DavidDarnes
+    #- https://github.com/daviddarnes
 
 # 4. Jekyll settings
 sass:
@@ -81,7 +81,7 @@ description: "Dr. Natalie Richton is a psychologist offering counseling services
 url: "http://drnatalierichton.com" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: ""
-email: "me@daviddarnes.com"
+email: "drnatalierichton@gmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 avatarurl: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
 # google_analytics: ''
@@ -97,15 +97,15 @@ navigation_header:
 
 
 navigation_footer:
-  Created by ER: erosen.fyi
+  Created by ER: http://erosen.fyi
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/DavidDarnes
   LinkedIn: https://www.linkedin.com/in/daviddarnes
-  Google+: https://plus.google.com/+DavidDarnes
-  GitHub: https://github.com/daviddarnes
-  link: https://darn.es
-  RSS: /feed.xml
+  #Google+: https://plus.google.com/+DavidDarnes
+  #GitHub: https://github.com/daviddarnes
+  #link: https://darn.es
+ # RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, uncomment and comment out as desired. Colours set the button colour
   Twitter: "#0d94e7"
