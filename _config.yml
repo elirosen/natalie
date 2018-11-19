@@ -77,7 +77,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Dr. Natalie Richton, Phd" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Dr. Natalie Richton is a psychologist that offers counseling services for adults and teens in New York and Connecticut. Dr. Natalie Richton specializes in treating anxiety, eating disorders and marital counseling." # Site description and default description, also used in jekyll-seo-tag
+description: "Dr. Natalie Richton is a psychologist offering counseling services for adults and teens in New York and Connecticut. Dr. Richton specializes in treating anxiety, eating disorders and marital counseling." # Site description and default description, also used in jekyll-seo-tag
 url: "http://drnatalierichton.com" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: ""
@@ -91,9 +91,11 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 # 8. Site navigation
 navigation_header:
   Home: /
-  Services: /elements/
+  Services: /categories/
   About: /blog/
   Search: /search/
+  Contact: /elements
+
 
 navigation_footer:
   Created by ER: erosen.fyi
