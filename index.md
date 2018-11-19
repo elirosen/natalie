@@ -15,7 +15,8 @@ I build a strong therapeutic relationship where my clients feel comfortable work
 In addition to my private practice, I serve as Program Director and supervisor at Backcountry Wellness. In my role there, I supervise other clinicians and treat those struggling with eating disorders and disordered eating.
 
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %} {% include button.html text="Tip me $5 💸" link="https://www.paypal.me/daviddarnes/5usd" color="#333333" %}
+{% include button.html text="Get in Touch" icon="calendar" link="/contact" color="#0366d6" %} 
+{% include button.html text="Learn More" icon="arrow" link="/about" color="#0d94e7" %} 
 
 ## Services
 
