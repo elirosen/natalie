@@ -1,14 +1,26 @@
 ---
 title: Contact
 feature_text: |
-  A demo of Markdown and HTML includes
+  Dr. Natalie Richton's Variety of Services
 feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: "Dr. Natalie Richton's Services"
 aside: true
 ---
 
 
-## HTML Includes
+## Address
+Address: 
+7 Lincoln Avenue, 2nd Floor
+Greenwich, CT 06830
+
+Phone Number: you are not putting your cell on the internet
+
+Email: DrNatalieRichton@gmail.com
+
+
+### Availability
+
+{{add some stuff here about scheduling instructions}} 
 
 ### Contact form
 
