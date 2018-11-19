@@ -6,7 +6,8 @@ feature-img: "assets/img/pexels/circuit.jpeg"
 
 ---
 
-![Dr. Natalie Richton](natalie/assets/img/nat-headshot.png "Dr. Natalie Richton")
+![Dr. Natalie Richton]({{ site.baseurl }}/assets/img/nat-headshot.png)
+
 
 I am a licensed clinical psychologist providing therapy to children, adolescents, and adults coping with a variety of challenges. I am committed to helping individuals solve numerous problems, promote personal growth, and make desired changes to enhance life experiences. I establish a foundation built on trust, empathy, and productivity, through which I collaborate with my clients to tailor treatment to their specific needs. I build a strong therapeutic relationship where my clients feel comfortable working towards achieving their goals, incorporating CBT, DBT, ACT and family systems theory. I use my extensive background in evidence-based treatment to provide each individual with optimal care.
 
