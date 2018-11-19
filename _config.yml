@@ -9,8 +9,8 @@ description: "Dr Natalie Richton Phd provides counseling services for adults and
 theme_settings:
   # Meta
   title: Dr. Natalie Richton Phd # blog's title
-  avatar: assets/img/triangle.svg
-  favicon: assets/favicon.ico
+  avatar: /assets/img/hands-icon.png
+  favicon: /assets/img/hands-icon.png
   gravatar: # Email MD5 hash
 
   # Header and footer text
