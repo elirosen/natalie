@@ -91,13 +91,12 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 # 8. Site navigation
 navigation_header:
   Home: /
-  Elements: /elements/
-  Blog: /blog/
-  Categories: /categories/
+  Services: /elements/
+  About: /blog/
   Search: /search/
 
 navigation_footer:
-  Created by David Darnes: https://darn.es
+  Created by ER: erosen.fyi
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/DavidDarnes
