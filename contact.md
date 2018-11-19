@@ -4,7 +4,7 @@ feature_text: |
   Get in Touch for a Consulatation
 feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: "How to Contact Dr. Natalie Richton"
-aside: true
+aside: false
 ---
 
 ### Availability
