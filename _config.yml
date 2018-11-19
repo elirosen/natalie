@@ -100,11 +100,11 @@ navigation_footer:
   Created by ER: http://erosen.fyi
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/DavidDarnes
-  LinkedIn: https://www.linkedin.com/in/daviddarnes
+  #Twitter: https://twitter.com/DavidDarnes
+  #LinkedIn: https://www.linkedin.com/in/daviddarnes
   #Google+: https://plus.google.com/+DavidDarnes
   #GitHub: https://github.com/daviddarnes
-  #link: https://darn.es
+  link: https://www.psychologytoday.com/us/therapists/natalie-richton-greenwich-ct/425288
  # RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, uncomment and comment out as desired. Colours set the button colour

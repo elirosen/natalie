@@ -22,9 +22,6 @@ Email: DrNatalieRichton@gmail.com
 
 {% include site-form.html %}
 
-``` html
-{% raw %}{% include site-form.html %}{% endraw %}
-```
 
 ### Address
 7 Lincoln Avenue, 2nd Floor

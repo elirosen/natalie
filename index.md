@@ -14,10 +14,10 @@ I build a strong therapeutic relationship where my clients feel comfortable work
 
 In addition to my private practice, I serve as Program Director and supervisor at Backcountry Wellness. In my role there, I supervise other clinicians and treat those struggling with eating disorders and disordered eating.
 
-{% include button.html text="Get in Touch" icon="calendar" link="/contact" color="#0366d6" %}
+{% include button.html text="Get in Touch" link="/contact" color="#0366d6" %}
 
 ## Services
 
 I specialize in treatment for mood and anxiety difficulties. My clinical expertise focuses on a wide range of problems, including anxiety, panic, worry, depression, eating disorders, behavioral problems, emotion regulation, test anxiety, sports-performance anxiety, parenting techniques and relationship problems. I also have consistent success helping the individuals I work with increase their use of effective coping strategies and minimize painful, problematic symptoms and behaviors.
 
-{% include button.html text="Learn More" icon="arrow" link="/services" color="#0d94e7" %} 
+{% include button.html text="Learn More" link="/services" color="#0d94e7" %} 
