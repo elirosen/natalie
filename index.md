@@ -1,8 +1,8 @@
 ---
 title: About Dr. Richton
 feature_text: |
-  ## Dr. Natalie Richton, Phd
-  Counseling Services 
+  ## Dr. Natalie Richton, PhD
+  Psychological Services 
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "I am a licensed clinical psychologist providing therapy to children, adolescents, and adults coping with a variety of challenges. I am committed to helping individuals solve numerous problems, promote personal growth, and make desired changes to enhance life experiences."
 ---
