@@ -1,7 +1,7 @@
 ---
-title: Family Therapy
+title: Parenting Sessions
 categories:
-- Family Therapy
+- Parenting Sessions
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
