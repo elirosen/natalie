@@ -29,3 +29,10 @@ Payment is due at the time of service. Payment may be remitted via credit card,
 Psychologist, New York 
 Psychologist, Connecticut
 
+## Professional Publications
+Professional Presentations
+
+**Klapper, N.,** Pauls, E., Brown, L., Sivasubramaniam, D., & Goolcharran, M. (March 2012). Authority-Subordinate Disparities in Concerns with Outcomes Versus Procedural Fairness. Poster presentation at the annual convention of the Eastern Psychological Association, Pittsburgh, PA.
+
+Iqbal, A., **Klapper, N.,** Armeli, S., &Tennen, H. (March 2013). Social Anxiety, Drinking to Conform, and Alcohol-Related Problems. Poster presentation at the annual convention of the Eastern Psychological Association, New York, NY.
+
