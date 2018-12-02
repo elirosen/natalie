@@ -2,7 +2,6 @@
 title: Initial Consultation
 categories:
 - Initial Consultation
-- About
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
