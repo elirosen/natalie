@@ -1,8 +1,8 @@
 ---
 title: Family Therapy
 categories: 
-- Individual Therapy
-excerpt: family therapy can be used to help navigate relationships and/or assist with effective communication within the family structure.
+- Family Therapy
+excerpt: Family therapy can be used to help navigate relationships and/or assist with effective communication within the family structure.
 feature_text: |
   ## Family Therapy
 feature_image: "https://picsum.photos/2560/600?image=733"
