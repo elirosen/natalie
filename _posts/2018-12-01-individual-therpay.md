@@ -1,8 +1,9 @@
 ---
 title: Individual Therapy
-categories:
+categories: 
 - Individual Therapy
-excerpt: |Individual therapy is typically offered in weekly 45-minute sessions, but depending on your needs, can be conducted more or less frequently.
+excerpt: |
+Individual therapy is typically offered in weekly 45-minute sessions, but depending on your needs, can be conducted more or less frequently.
 feature_text: |
   ## Individual Therapy
   Sessions Tailored to Your Personal Needs
