@@ -7,11 +7,11 @@ aside: true
 Psychological services for children, adolescents and adults
 
 I specialize in treatment for mood and anxiety difficulties. My clinical expertise focuses on a wide range of problems, including:
-* Anxiety 
-* Panic
-* Worry 
-* Depression 
-* Eating disorders 
+    * Anxiety 
+    * Panic
+    * Worry 
+    * Depression 
+    * Eating disorders 
 * Behavioral problems 
 * Emotion regulation
 * Test anxiety
