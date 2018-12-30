@@ -1,6 +1,8 @@
 ---
 title: About Dr. Richton
-feature_image: https://picsum.photos/1300/400?image=443
+feature_text: |
+  ## About 
+feature_image: "https://picsum.photos/1300/400?image=443"
 aside: false
 ---
 
