@@ -27,6 +27,7 @@ Payment is due at the time of service. Payment may be remitted via credit card,
 
 ### Licensure 
 Psychologist, New York 
+
 Psychologist, Connecticut
 
 ### Professional Publications
