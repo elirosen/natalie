@@ -2,7 +2,7 @@
 title: Family Therapy
 categories: 
 - Family Therapy
-excerpt:  |
+excerpt:  
   ## Family Therapy
   Navigating Relationships & Effective Communication
 feature_image: "https://picsum.photos/2560/600?image=733"
