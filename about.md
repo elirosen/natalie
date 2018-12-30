@@ -1,8 +1,7 @@
 ---
 title: About
 layout: categories
-excerpt: "Category index"
-aside: true
+aside: false
 ---
 some interesting stuff will go here.
 
